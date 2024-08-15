@@ -5,7 +5,7 @@ Proyecto creado durante el bootcamp de Tecnolochicas PRO, es adaptable a distint
 
 El propósito de esta pagina web es mostrar mi portafolio de proyectos como desarrolladora web.💜
 
-Podrás encontrarlo aquí[Portafolio](https://github.com/KarlaIvon15/Karla-Ivon15.github.io)
+Podrás encontrarlo aquí[Portafolio]((https://github.com/Erandymm/portafolio))
 
 ### Tecnologías
 * HTML
