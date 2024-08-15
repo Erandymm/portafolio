@@ -1,0 +1,36 @@
+*{
+    font-family: "Outfit", sans-serif;
+}
+header{
+    background-color: #729cda;
+}
+header span{
+    color: #F8EDEF;
+}
+.nav-item a{
+    color: #F8EDEF;
+}
+/* link visitado */
+.nav-item a:visited{
+    color: #F8EDEF;
+}
+.nav-item a:hover{
+    color: #2b1caf;
+}
+#nav-butoon{
+    background-color: #4661b9;
+}
+.bi{
+color: #5e324f;
+font-size: 2em;
+}
+footer{
+    background-color:#729cda;
+}
+footer .icon-footer i{
+    color: #F8EDEF;
+}
+footer p{
+    color: turquoise;
+}
+
